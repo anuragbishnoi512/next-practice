@@ -44,7 +44,7 @@ export const EmailJs = () => {
                         <label className='border-2 p-[16px_50px] border-blue-500 rounded-md font-bold text-white'>Message</label>
                         <textarea name="message" className='border-2 p-[16px_50px] border-blue-500 rounded-md bg-transparent text-white' />
                     </div>
-                    <input type="submit" value="Send" className='border-4 p-[16px_50px] border-gray-900 rounded-md hover:border-red-800 duration-250 hover:bg-white mt-[50px] text-white' />
+                    <input type="submit" value="Send" className='border-4 p-[16px_50px] border-gray-900 rounded-md hover:border-red-800 duration-300  hover:bg-white mt-[50px] text-white hover:text-black' />
                 </form>
             </div>
             <div className='h-screen'></div>
