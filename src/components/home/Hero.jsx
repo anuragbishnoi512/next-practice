@@ -1,4 +1,4 @@
-import BackToTop from '@/common/BackToTop'
+import BackToTop from '@/components/common/BackToTop'
 import Link from 'next/link'
 import React from 'react'
 
