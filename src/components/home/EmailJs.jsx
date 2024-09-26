@@ -15,6 +15,7 @@ export const EmailJs = () => {
                 publicKey: 'JsCmS1sMdaVx8akaM',
             })
             .then(
+             
                 () => {
                     console.log('SUCCESS!');
                 },

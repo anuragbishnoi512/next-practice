@@ -16,7 +16,7 @@ const BackToTop = () => {
         }
     }
     const scrollTo = () => {
-        window.scrollTO({ top: 0, behaviour: 'smooth' });
+        window.scrollTo({ top: 0, behavior: 'smooth' });
     }
     useEffect(() => {
         window.addEventListener("scroll", scrollTop);
